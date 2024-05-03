@@ -1,0 +1,12 @@
+#miDiv img {
+    width: 300px; /* Controla el tamaño de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    border-radius: 5px; /* Borde redondeado para la imagen */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px; /* Espacio entre el botón y la imagen */
+}

@@ -1,0 +1,39 @@
+/* Estilos generales para el cuerpo del documento */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Estilos para los encabezados para darle una mejor visualización */
+h3 {
+    color: #333;
+    margin-top: 30px;
+}
+
+/* Estilos para los párrafos para mejorar la legibilidad */
+p {
+    line-height: 1.6;
+    color: #666;
+}
+
+/* Estilos específicos para el contenedor de información */
+#informacion {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Estilos para los enlaces para hacerlos más notorios */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
